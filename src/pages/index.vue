@@ -1,6 +1,7 @@
 <template>
   <main>
     <PetaComponent/>
+    <ListUsaha/>
   </main>
 </template>
 

@@ -11,7 +11,7 @@ declare module 'vue' {
     AppFooter: typeof import('./src/components/AppFooter.vue')['default']
     AppMenuBar: typeof import('./src/components/AppMenuBar.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
-    Peta: typeof import('./src/components/Peta.vue')['default']
+    ListUsaha: typeof import('./src/components/ListUsaha.vue')['default']
     PetaComponent: typeof import('./src/components/PetaComponent.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
